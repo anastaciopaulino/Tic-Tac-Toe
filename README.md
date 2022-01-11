@@ -1,5 +1,5 @@
-<img src="./assets/img/favicon.png" />
 # Tic-tac-toe
+<img src="./assets/img/favicon.png" />
 <p>
 The tic-tac-toe game or three in a row is a popular game and/or pastime. It is a game with extremely simple rules, which does not cause great difficulties for its players and is easily learned.
 </p>
