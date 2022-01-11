@@ -9,10 +9,10 @@ The tic-tac-toe game or three in a row is a popular game and/or pastime. It is a
 #### Topics 📃
 <p>
 <a href="#Tic-tac-toe">About</a> <br />
-<a href="#technologies">Technologies</a> <br />
-<a href="#prerequisites">Prerequisites</a> <br />
-<a href="#dependencies">Dependencies</a> <br />
-<a href="#Running">Running</a> <br />
+<a href="####technologies">Technologies</a> <br />
+<a href="####prerequisites">Prerequisites</a> <br />
+<a href="####dependencies">Dependencies</a> <br />
+<a href="####Running">Running</a> <br />
 </p>
 
 <hr />
