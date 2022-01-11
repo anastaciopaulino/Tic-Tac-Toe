@@ -42,6 +42,3 @@ $ git clone <https://github.com/anastaciopaulino/Tic-Tac-Toe.git>
 $ python3 main.py
 
 ```
-
-<img src="./assets/gif/01.gif" />
-<img src="./assets/gif/02.gif" />
