@@ -43,5 +43,5 @@ $ python3 main.py
 
 ```
 
-<img src="./assets/gif/01.git" />
-<img src="./assets/gif/02.git" />
+<img src="./assets/gif/01.gif" />
+<img src="./assets/gif/02.gif" />
